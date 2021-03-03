@@ -2,6 +2,7 @@
   "extends": ["react-app", "react-app/jest", "standard"],
   "rules": {
     "quotes": ["warn", "double"],
-    "no-unused-vars": ["warn"]
+    "no-unused-vars": ["warn"],
+    "space-before-function-paren": 0
   }
 }
