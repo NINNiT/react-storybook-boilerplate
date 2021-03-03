@@ -1,6 +1,7 @@
 {
   "extends": ["react-app", "react-app/jest", "standard"],
   "rules": {
-    "quotes": ["error", "double"]
+    "quotes": ["warn", "double"],
+    "no-unused-vars": ["warn"]
   }
 }
