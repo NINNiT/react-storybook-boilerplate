@@ -1,4 +1,6 @@
 {
   "extends": ["react-app", "react-app/jest", "standard"],
-  "rules": {}
+  "rules": {
+    "quotes": ["error", "double"]
+  }
 }
