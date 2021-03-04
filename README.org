@@ -1,0 +1,7 @@
+#+title:     react-storybook-boilerplate
+#+author:    XMasterNinni
+#+email:     soelder@hotmail.com
+
+A simple boilerplate using *react*, *SCSS*, *storybook*, *prettier* and *eslint*.
+
+Run =storybook= and =react= concurrently with =yarn run start=
