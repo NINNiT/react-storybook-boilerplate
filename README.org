@@ -2,6 +2,8 @@
 #+author:    XMasterNinni
 #+email:     soelder@hotmail.com
 
+*WIP*
+
 A simple boilerplate using *react*, *SCSS*, *storybook*, *prettier* and *eslint*.
 
 Run =storybook= and =react= concurrently with =yarn run start=
